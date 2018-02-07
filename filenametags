@@ -1,0 +1,11 @@
+-e !_TAG_FILE_SORTED	2	/2=foldcase/
+'	./'	1
+filenametags	./filenametags	1
+lcd.c	./lcd/lcd.c	1
+lcd.h	./lcd/lcd.h	1
+makefile	./makefile	1
+.makefile.swp	./.makefile.swp	1
+play.c	./app/play.c	1
+play.h	./app/play.h	1
+usb.c	./usb/usb.c	1
+usb.h	./usb/usb.h	1
